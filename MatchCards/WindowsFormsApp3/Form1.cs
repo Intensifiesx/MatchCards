@@ -1,4 +1,4 @@
-﻿/*Name: Zain Hindi & Henry Nan, EGG 202, Lab #7
+﻿/*Name: Zain & Henry
 * Description: a card based memory game
 * Input: clicks on cards
 * Output: show if you have two matched cards
